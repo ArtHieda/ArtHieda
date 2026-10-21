@@ -1,6 +1,6 @@
 # Oii eu sou o Arthur Hieda, especialista em IA!
 
-Formado em Inteligência Artificial, com habilidades em Python, JavaScript, TypeScript e Computação Quântica. Atualmente, meu foco está no estudo de dados, visão computacional e machine learning. 🚀
+Formado em Inteligência Artificial e pós-graduado em Data Analytics, com habilidades em Python, R, SQL e Computação Quântica. Atualmente, meu foco está no estudo de dados, visão computacional e machine learning. 🚀
 
 ### 📊 Github Stats
 
